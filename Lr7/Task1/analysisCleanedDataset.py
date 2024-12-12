@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 # Завантаження очищеного датасету
-data = pd.read_excel("cleaned_data.xlsx")
+data = pd.read_csv("cleaned_data.scv")
 
 # 2. Попередній аналіз даних
 print("Перші кілька рядків датасету:")

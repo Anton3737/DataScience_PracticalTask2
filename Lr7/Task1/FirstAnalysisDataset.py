@@ -46,7 +46,7 @@ def extract_month(date):
 main_data["Місяц"] = main_data["Дата"].apply(extract_month)
 
 # Зберігаємо очищений датасет у новий файл
-output_file_path = "cleaned_data.xlsx"
-main_data.to_excel(output_file_path, index=False)
+output_file_path = "cleaned_data.scv"
+main_data.to_csv(output_file_path, index=False)
 
 print(f"Очищений датасет збережено у файл: {output_file_path}")
