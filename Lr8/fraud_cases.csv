@@ -1,0 +1,4 @@
+loan_amount,loan_days,gender_id,children_count_id,education_id,Marital status,prolongation_total_days,wizard_type_id,step,cluster,distance_to_centroid,potential_fraud
+4000,17,2,1,5,3,120.0,2,3,1,4.095193047003703,True
+3000,30,1,3,5,4,90.0,5,7,1,4.006020655921598,True
+8000,30,1,3,5,4,60.0,2,3,1,4.028777743660333,True
