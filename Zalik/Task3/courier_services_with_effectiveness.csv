@@ -1,0 +1,9 @@
+Delivery Service,Number of Branches (Kyiv),Delivery Time min,Delivery Time max,Mobile App,API,Loyalty Program,International Shipping,Fulfillment,Time Slot Delivery,Large Cargo Shipping,User Rating (1-10),Popularity (%),Effectiveness Score
+Nova Poshta,450,1,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8.45,97.0,2.734
+Ukrposhta,700,1,6,Yes,Yes,Yes,Yes,No,No,Yes,7.8,33.0,2.476
+Intime,50,1,2,Yes,Yes,No,Yes,Yes,Yes,Yes,7.2,12.0,2.214
+Mist Express,150,1,3,Yes,Yes,No,Yes,No,No,Yes,7.0,20.0,2.04
+Delivery,100,1,3,Yes,Yes,Yes,No,No,Yes,No,6.5,7.0,1.914
+Zruchna,2,1,1,No,Yes,No,No,Yes,No,No,5.5,3.0,1.4060000000000001
+Delfast,1,0,1,Yes,Yes,No,No,Yes,No,No,3.47,0.8,1.0456
+Avtolux,20,1,3,Yes,Yes,Yes,Yes,No,Yes,Yes,6.0,,0.0
